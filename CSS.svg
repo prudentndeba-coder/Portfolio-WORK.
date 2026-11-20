@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="CSS3">
+<defs><clipPath id="l"><rect x="0" y="0" width="64" height="128"/></clipPath><clipPath id="r"><rect x="64" y="0" width="64" height="128"/></clipPath>
+<path id="g" d="M33.5 30.4H91L88.3 58.3H49.5M88.3 58.3L85.6 84.2L64 90.8L42.4 84.2L41.2 77.3" fill="none" stroke-width="13.8" stroke-linejoin="miter" stroke-miterlimit="10"/></defs>
+<path fill="#264de4" d="M8.76 1l10.055 112.883 45.118 12.58 45.244-12.626L119.24 1H8.76z"/>
+<path fill="#2965f1" d="M64 117.06l36.56-10.14 8.6-96.35H64z"/>
+<use href="#g" stroke="#ebebeb" clip-path="url(#l)"/>
+<use href="#g" stroke="#ffffff" clip-path="url(#r)"/>
+</svg>
